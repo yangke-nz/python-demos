@@ -1,0 +1,1 @@
+Pyttsx3 is a Python library for converting text to speech, and it differs from other libraries in that it functions without requiring an internet connection.

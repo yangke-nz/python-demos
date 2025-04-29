@@ -11,5 +11,5 @@ text = 'Pyttsx3 is a Python library for converting text to speech, and it differ
 engine.say(text) 
 engine.runAndWait()
 
-engine.save_to_file(text, 'output_voice.mp3') 
+engine.save_to_file(text, 'output_voice.wav') 
 engine.runAndWait()
